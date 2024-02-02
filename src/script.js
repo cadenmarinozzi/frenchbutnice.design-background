@@ -42,7 +42,7 @@ let camera, composer;
 
 // Load the file containing the scene objects/camera/lighting
 new GLTFLoader().load(
-	"https://gist.githubusercontent.com/nekumelon/fea5cbbf59bb77cd484b2a2bef4547a0/raw/41dae8e9df77e61b11edd18dc9f8b6a9649bbb12/model.gltf",
+	"https://gist.githubusercontent.com/cadenmarinozzi/fea5cbbf59bb77cd484b2a2bef4547a0/raw/41dae8e9df77e61b11edd18dc9f8b6a9649bbb12/model.gltf",
 	onGLTFLoaded
 );
 
