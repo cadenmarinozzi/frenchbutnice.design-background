@@ -8,7 +8,7 @@ I did not make the 3d background, the code was presumably made by [Timothée Rou
 
 # Demo
 
-You can see a demo of the code on [here](https://nekumelon.github.io/frenchbutnice.design-background/)
+You can see a demo of the code on [here](https://cadenmarinozzi.github.io/frenchbutnice.design-background/)
 
 # Original Site
 
